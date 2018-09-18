@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="42px" viewBox="0 0 50 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>tel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M49.855316,5.55137812 L42.3106731,40.143392 C41.7414767,42.5847983 40.2571017,43.1924371 38.1477267,42.0422635 L26.652191,33.8065865 L21.105316,38.9932184 C20.4914767,39.5900066 19.9780838,40.0891385 18.7950481,40.0891385 L19.620941,28.7067601 L40.9267445,9.98931215 C41.8530838,9.18636076 40.7258517,8.74148229 39.4870124,9.54443368 L13.1477267,25.6685656 L1.80844096,22.2180448 C-0.658076895,21.4693469 -0.702719752,19.8200413 2.32183382,18.6698677 L46.6745124,2.05745451 C48.7280838,1.30875659 50.5249588,2.50233298 49.855316,5.55137812 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tel" transform="translate(0.000000, -1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="telegram-plane" fill="#fff" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
