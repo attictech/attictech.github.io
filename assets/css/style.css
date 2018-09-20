@@ -3337,5 +3337,13 @@ a.cencel-preloader {
 }
 
 .social-img {
-    width: 50px;
+    width: 52px;
+}
+
+.wow {
+    margin: 10px 0px;
+}
+
+.social_row {
+    justify-content: center;
 }
